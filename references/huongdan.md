@@ -1,0 +1,1 @@
+Thư mục chứa bản gốc, tài liệu tham khảo gốc lấy về từ internet… Ví dụ, nếu dev tham khảo mã nguồn mở XYZ, thì dev phải đưa file nén mã nguồn mở gốc đó vào thư mục này, đồng thời giải nén và copy một lần nữa vào thư mục sources. 
