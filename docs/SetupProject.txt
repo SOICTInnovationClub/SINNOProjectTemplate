@@ -1,0 +1,1 @@
+Sản phẩm phải được đóng gói thành các bộ cài đặt, hoặc deploy lên các Store ứng dụng
