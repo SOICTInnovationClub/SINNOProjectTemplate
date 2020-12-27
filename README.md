@@ -1,6 +1,6 @@
 
 **KHUÔN MẪU REPOSITORY CHO CÁC DỰ ÁN**
-Tài liệu, Tổ chức, Cấu trúc thư mục và các tiêu chuẩn khác áp dụng cho các dự án tại câu lạc bộ SINNO, [SOICT Innovation Club](https:/soict.hust.edu.vn/sinno)
+Tài liệu, Tổ chức, Cấu trúc thư mục và các tiêu chuẩn khác áp dụng cho các dự án tại câu lạc bộ SINNO, [SOICT Innovation Club](https://soict.hust.edu.vn/sinno)
 
 **QUI ĐỊNH**
 - Tỷ lệ chú thích trong các đoạn mã >= 30% (File có 10 dòng thì có 3 dòng chú thích)
