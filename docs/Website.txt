@@ -3,4 +3,6 @@ Website sản phẩm đặt tại URL:..........................................
  + FB
  + Zalo
  + Email
- + Các hệ thống HelpDesk
+ + Các hệ thống HelpDesk, có thể sử dụng luôn chức năng Issues của GitHub
+ 
+ Có thể sử dụng các công cụ như Mobirise để tạo nhanh Landingpage cho sản phẩm
