@@ -48,3 +48,11 @@ Tài liệu, Tổ chức, Cấu trúc thư mục và các tiêu chuẩn khác á
 - [Trello](https://trello.com/)
 - [Base](https://base.vn/)
 ![Minh hoạ](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/112758i61F9562D049C6513/image-size/large?v=1.0&px=999)
+
+**TRAO ĐỔI THÔNG TIN**
+- Email là phương pháp trao đổi chính thức nhất, có thể thay cho chữ kí, có ý nghĩa pháp lý.
+- Ai đó trả lời thư thì KHÔNG ĐƯỢC TẠO THƯ MỚI, mà phải tìm lại thư cũ và reply lại để còn xem được lịch sử trao đổi. Như thế, người mới vào chỉ cần xem thư mới nhất cũng biết toàn bộ lịch sử trao đổi
+- Khi trả lời thư, phải gửi cho tất cả mọi người trong team. Đó là nguyên tắc phẳng của Scrum. Mọi người đều phải biết việc nhau.
+- Ai là người làm việc chính, hãy dear …… tên của anh ta. Người khác không xuất hiện tên ở dear…. thì tức là cần biết nhưng không phải làm.
+- Tiêu đề thư phải có mã dự án phía trước. Điều này giúp thực hiện lọc và tô màu email để quản trị thư cho tốt.
+![image](https://user-images.githubusercontent.com/8079397/114507323-2a452c00-9c5d-11eb-9961-7fba7235b7e4.png)
